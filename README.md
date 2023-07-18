@@ -18,6 +18,11 @@ A aplicação pode ser adicionado a partir do site oficial:
 
 # Comandos
 * **_/ping_** - testa a velocidade de resposta do bot
+* **_/comandos_** - lista os comandos do bot
+* **_/python_** - apresenta uma lista dos principais comandos da biblioteca python
 * **_/pandas_** - apresenta uma lista dos principais comandos da biblioteca pandas
+* **_/matplotlib_** - apresenta uma lista dos principais comandos da biblioteca matplotlib
+* **_/seaborn_** - apresenta uma lista dos principais comandos da biblioteca seaborn
+* **_/sklearn_** - apresenta uma lista dos principais comandos da biblioteca scikit-learn
 * **_/playlist_** - uma playlist de vídeos tutoriais com informações, sugestões e dicas sobre data analytics
 * **_/docs_** - disponibiliza um menu com links de documentação das principais ferramentas de data analytics
